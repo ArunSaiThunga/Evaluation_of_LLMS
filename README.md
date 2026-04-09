@@ -1,4 +1,7 @@
 # Evaluation_of_LLMS
 Evalution of LLMs 
 - correctness
-- Hallucination rate 
+- Hallucination rate
+- K@precesion
+- k@Recall
+  
