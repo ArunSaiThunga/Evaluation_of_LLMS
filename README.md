@@ -4,4 +4,5 @@ Evalution of LLMs
 - Hallucination rate
 - K@precesion
 - k@Recall
+- Faithfullness
   
